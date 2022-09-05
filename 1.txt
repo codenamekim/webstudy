@@ -1,0 +1,18 @@
+TAG               : 문구를 꾸며주는 것, 사람으로 따지면 옷이라고 생각하면 됨.
+  <strong>          : 글자를 진하게
+  <u>               : 언더바
+  <h1> ~ <h6>       : 제목을 쓸때 사용, 숫자가 커질수록 글자는 작아짐.
+  <br>              : 줄바꿈 태그
+  <p>               : 단락을 나눠준다. <br>태그를 따로 사용할 필요가 없음.
+  <img>             : 사진이나 이미지 파일 태그
+
+CSS               : 화면을 꾸며주며, 글자도 꾸며준다.
+Attribute         : 태그가 부족할때  많은 의미를 부여
+
+
+
+
+사이트 추천
+https://atom.io/                                    : atom Edit 설치
+https://unsplash.com/                               : 고퀄 이미지 개꿀
+https://www.advancedwebranking.com/seo/html-study/  : html 태그 랭킹
